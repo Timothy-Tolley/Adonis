@@ -1,0 +1,13 @@
+Title: Adonis | Travel and Lifestyle Blog
+
+----
+
+Author: Timothy Tolley @ Wreath Inc
+
+----
+
+Description: Adonis is a travel and lifestyle blog which aims to inspect and challenge the ideas of beauty and desire in the modern age. 
+
+----
+
+Copyright: © 2018 (link: https://wreathinc.io text: Wreath Inc.)

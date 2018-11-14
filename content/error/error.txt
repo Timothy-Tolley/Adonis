@@ -1,0 +1,9 @@
+Title: Error
+
+----
+
+Intro: This page has not been found.
+
+----
+
+Text: Hey Pal, looks like this page hasnt been built yet.. Try again from the home page!

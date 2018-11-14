@@ -1,0 +1,15 @@
+.home-main {
+  position: absolute;
+  top: 10vh;
+  width: calc(100vw - 60px - 20vw);
+  padding-left: 10vw;
+  padding-right: 10vw;
+  height: auto;
+  margin-bottom: 30px;
+}
+
+.home-img {
+  object-fit: cover;
+  width: 100%;
+  max-height: 100%;
+}
